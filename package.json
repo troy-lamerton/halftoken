@@ -1,0 +1,11 @@
+{
+  "name": "halfToken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:troy-lamerton/halftoken.git",
+  "author": "Troy Lamerton <troy.lamerton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^4.0.5"
+  }
+}
